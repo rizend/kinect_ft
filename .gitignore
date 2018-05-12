@@ -1,0 +1,3 @@
+libfreenect/
+__pycache__/
+*.pyc
